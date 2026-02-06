@@ -55,6 +55,31 @@ I am a dedicated Information Security student with a passion for discovering sys
 
 ---
 
+---
+
+## 📈 Activity & Skill Analysis
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-zerone05&bg_color=0D1117&color=0FF706&line=0FF706&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Justin's Activity Graph" />
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mr-zerone05&layout=compact&bg_color=0D1117&title_color=0FF706&text_color=FFFFFF&theme=tokyonight" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-zerone05&theme=monokai" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+---
+
 ### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
