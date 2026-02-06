@@ -26,8 +26,6 @@ I am a dedicated Information Security student with a passion for discovering sys
 
      ### 🔥 GitHub Stats
     <div align="center">
-     </div>
-    <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-zerone05&theme=tokyonight" alt="GitHub Streak" />
     </div>
     </td>
