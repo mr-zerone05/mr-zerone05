@@ -55,8 +55,6 @@ I am a dedicated Information Security student with a passion for discovering sys
 
 ---
 
----
-
 ## 📈 Activity & Skill Analysis
 
 <div align="center">
@@ -64,19 +62,6 @@ I am a dedicated Information Security student with a passion for discovering sys
 </div>
 
 <br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mr-zerone05&layout=compact&bg_color=0D1117&title_color=0FF706&text_color=FFFFFF&theme=tokyonight" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-zerone05&theme=monokai" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
 
 ---
 
