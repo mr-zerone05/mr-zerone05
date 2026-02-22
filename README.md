@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=900&size=50&pause=1000&color=0FF706&width=1000&height=80&lines=WELCOME+TO+MY+GITHUB!+I'M+JUSTIN+WILES" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=900&size=45&pause=1000&color=0FF706&width=1000&height=80&lines=WELCOME+TO+MY+GITHUB!+I'M+JUSTIN+WILES" />
 </div>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Justin Wiles
