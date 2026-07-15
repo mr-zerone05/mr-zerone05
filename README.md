@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=900&size=45&pause=1000&color=0FF706&width=1000&height=80&lines=WELCOME+TO+MY+GITHUB!+I'M+JUSTIN+WILES" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=900&size=45&pause=1000&color=0FF706&width=1000&height=80&lines=WELCOME+TO+MY+GITHUB!+I'M+TUAN" />
 </div>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Justin Wiles
+# Hi, My name is Le Van Anh Tuan
 
 ## 🛡️ Information Security Student & Cybersecurity Enthusiast
 ---
@@ -11,26 +11,45 @@ I am a dedicated Information Security student with a passion for discovering sys
 
 <table align="center">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
 
 ### 🔭 About Me
-* 🌍 I'm based in **Ho Chi Minh, Viet Nam**
-* 🖥️ Portfolio: [CYBERBLOGS](https://mr-zerone05.github.io/CYBERBLOGS/)
-* ✉️ Contact: [tuansmhtbt@gmail.com](mailto:tuansmhtbt@gmail.com)
+* 🎓 I am a **final-year Information Security student** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.
+* 🌍 I'm based in **Ho Chi Minh, Viet Nam**.
+* 🖥️ Portfolio / Blog: [SPACE EXPLORER](https://space-explorer-justin-oj4n.vercel.app/)
 * 🧠 Learning: **Penetration Testing, Reverse Engineering, DevSecOps**
 * 👥 Collaborating: **4TL CTF**
-* 💬 Motto: *"Security is a process, not a product."*
 
     </td>
-    <td valign="top" width="50%">
-
-### 🔥 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-zerone05&theme=tokyonight" alt="GitHub Streak" />
-</div>
+    <td align="center" valign="middle" width="40%">
+      <img src="https://res.cloudinary.com/djres3vi5/image/upload/v1784098394/IMG_20230427_205331_n8spgq.jpg" width="220px" style="border-radius: 10px;" alt="Tuan Le Profile Image" />
+      <br/><br/>
+      <i> "Security is a process, not a product."</i>
     </td>
   </tr>
 </table>
+
+---
+
+## 📞 Contact Information
+
+Feel free to reach out to me via any of the professional channels listed below:
+
+*   **📱 Phone:** 0565108384
+*   **✉️ Email:** tuansmhtbt@gmail.com
+*   **📍 Location:** Ho Chi Minh, Viet Nam
+*   **🌐 GitHub:** [github.com/mr-zerone05](https://github.com/mr-zerone05)
+
+---
+
+## 📜 Achievements & Certifications
+
+Explore my detailed verified credentials and professional badges here: **[View All My Certificates 🚀](https://space-explorer-justin-oj4n.vercel.app/certificate)**
+
+*   **Simplilearn:** Ethical Hacking 101, Kali Linux Basics, CISSP Security Assessment & Testing, Encoder-Decoder Architecture.
+*   **EC-Council CodeRed:** SQL Injection Attack, Introduction to SAN & NAS Storage, NetApp Storage Lab.
+*   **Security Blue Team:** Introduction to Network Analysis.
+*   **OPSWAT Academy:** Introduction to Critical Infrastructure Protection (ICIP).
 
 ---
 
@@ -69,29 +88,39 @@ Below are my key academic projects focusing on AI-Driven Security Operations, Bl
 
 ---
 
-### 🛠️ Technical Skills
+## 🏆 CTF & Tech Competitions
 
-| Skill Category | Tools & Technologies |
+| Timeline | Competition / Event | Role / Status |
+| :--- | :--- | :--- |
+| **2024, 2025** | HCMUTE CTF | Active Participant |
+| **2025** | HACKATHON | Active Participant |
+| **2026** | MASTERING IT | Active Participant |
+
+---
+
+## 🛠️ Skills & Core Competencies
+
+### **Technical Skills**
+*   **Security & Testing:** Penetration testing, vulnerability assessment, web security auditing.
+*   **Infrastructure & Tools:** Firewall management, network analyzers, system monitoring.
+*   **Development & Automation:** Full-stack development, exploit scripting, log parsing.
+
+### **Soft Skills**
+*   **Core Abilities:** Analytical troubleshooting, technical report writing, cross-functional collaboration.
+
+---
+
+## 🧰 Tools & Platforms
+
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Cybersecurity Expertise** | **[Pentesting & Auditing]** <br/> <img src="https://img.shields.io/badge/Metasploit-%232496ED.svg?style=for-the-badge&logo=metasploit&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Nmap-%234DABCF.svg?style=for-the-badge&logo=nmap&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/OWASP_ZAP-%23E32C2D.svg?style=for-the-badge&logo=owasp&logoColor=white" height="22" /> <br/> **[Digital Forensics & Incident Response]** <br/> <img src="https://img.shields.io/badge/Autopsy-%235B9BD5.svg?style=for-the-badge&logo=autopsy&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Volatility-%23FFD700.svg?style=for-the-badge&logo=volatility&logoColor=black" height="22" /> <img src="https://img.shields.io/badge/FTK_Imager-%23DA1A32.svg?style=for-the-badge&logo=ftk&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" height="22" /> <br/> **[Reverse Engineering & Malware Analysis]** <br/> <img src="https://img.shields.io/badge/IDA_Pro-%23666666.svg?style=for-the-badge&logo=ida&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Ghidra-%23000000.svg?style=for-the-badge&logo=ghidra&logoColor=white" height="22" /> |
-| **Programming** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,bash" height="30" /> |
-| **Development** | <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs" height="30" /> |
-| **Infra & OS** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,linux,docker,kali,ubuntu" height="30" /> |
+| **Security & Testing** | <img src="https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/OWASP_ZAP-%23E32C2D.svg?style=for-the-badge&logo=owasp&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Nmap-%234DABCF.svg?style=for-the-badge&logo=nmap&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Metasploit-%232496ED.svg?style=for-the-badge&logo=metasploit&logoColor=white" height="22" /> <br/> <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Ghidra-%23000000.svg?style=for-the-badge&logo=ghidra&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/IDA_Pro-%23666666.svg?style=for-the-badge&logo=ida&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" height="22" /> <br/> `Sqlmap` |
+| **Monitoring** | <img src="https://img.shields.io/badge/Zabbix-%23D40000.svg?style=for-the-badge&logo=zabbix&logoColor=white" height="22" /> `PRTG` |
+| **Infrastructure & Simulation** | <img src="https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="22" /> <br/> `Cisco Packet Tracer` `PNETLab` `GNS3` |
 
 ---
 
-## 💻 Tech Stack Tags
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.style=flat-square&logo=solidity&logoColor=white)
-
----
-
-## 📈 Activity & Skill Analysis
+## 📈 Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-zerone05&bg_color=0D1117&color=0FF706&line=0FF706&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Justin's Activity Graph" />
@@ -105,20 +134,6 @@ Below are my key academic projects focusing on AI-Driven Security Operations, Bl
 </div>
 
 ---
-
-<table align="center">
-  <tr>
-    <td align="center" width="100%">
-      ### 🤝 Connect with Me
-      <p align="center">
-        <a href="https://www.github.com/mr-zerone05" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-        <a href="https://www.linkedin.com/in/tuấn-lê-a18171371/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-        <a href="https://www.youtube.com/@38levananhtuan55" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-        <a href="https://discord.com/users/zerone_81671" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
